@@ -1,0 +1,15 @@
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/bin/Debug/netstandard2.0/NewRelicXamarinSamples.deps.json
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/bin/Debug/netstandard2.0/NewRelicXamarinSamples.dll
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/bin/Debug/netstandard2.0/ref/NewRelicXamarinSamples.dll
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/bin/Debug/netstandard2.0/NewRelicXamarinSamples.pdb
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/NewRelicXamarinSamples.csproj.AssemblyReference.cache
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/NewRelicXamarinSamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/NewRelicXamarinSamples.AssemblyInfoInputs.cache
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/NewRelicXamarinSamples.AssemblyInfo.cs
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/NewRelicXamarinSamples.csproj.CoreCompileInputs.cache
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/NewRelicXamarinSamples.dll
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/ref/NewRelicXamarinSamples.dll
+/Users/danielapps/Projects/NewRelicXamarinSamples/NewRelicXamarinSamples/obj/Debug/netstandard2.0/NewRelicXamarinSamples.pdb
